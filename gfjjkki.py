@@ -1,0 +1,4 @@
+olma="nok"
+print
+(olma)
+
